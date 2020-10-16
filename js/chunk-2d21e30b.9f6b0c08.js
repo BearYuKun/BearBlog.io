@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e30b"],{d504:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h1",[e._v("欢迎登陆 “伴我汽车”管理平台 后台管理系统")])])}],a={data:function(){return{}},created:function(){},methods:{}},u=a,i=t("2877"),o=Object(i["a"])(u,c,r,!1,null,"b5f1acea",null);n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d21e30b.9f6b0c08.js.map
